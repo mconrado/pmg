@@ -36,12 +36,27 @@
 - [ ] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
 - [ ] Organização da Atenção Básica no Sistema Único de Saúde;
+  - https://sanarmed.com/resumos-atencao-basica-a-saude-principios-e-diretrizes-ligas/
+  - https://www.youtube.com/watch?v=QIPV_N9DNHw
 - [ ] Leis 8080/90 e 8142/90;
+  - (8080) https://www.youtube.com/watch?v=gsFwPUc0T_o
+  - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
+  - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
+  - (8080) lei seca: https://www.cofen.gov.br/wp-content/uploads/2015/12/Lei-8080-SUS.pdf
+  - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
+  - https://www.youtube.com/watch?v=Ml2_0-TtvDw
+  - lei seca: https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7508.htm
 - [ ] Bases de Dados do Sistema Único de Saúde – DATASUS;
+  - https://www.youtube.com/watch?v=svjtymTmI2g
 - [ ] Rotinas administrativas;
+  - https://www.youtube.com/watch?v=veQxDB7VXhU
+  - https://www.youtube.com/watch?v=kq1tOJnWJKM&list=PLOsycOQybQqdoRJd_qCVcJgjFx09XfzUw
 - [ ] Redação oficial;
+  - https://www.youtube.com/watch?v=AYUoW1hd78c
+  - https://www.youtube.com/watch?v=VISNlsOGdxU
 - [ ] Arquivamento.
+  - https://www.youtube.com/watch?v=0aZhWhBpFpc
 
 
 --------------------------------------------------------------------------------------------
