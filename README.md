@@ -34,6 +34,7 @@
 
 **CONHECIMENTOS ESPECÍFICOS - Atendente Administrativo:**
 - [ ] Diretrizes e bases da implantação do SUS;
+  - https://www.youtube.com/watch?v=vGN5pBDaAaQ
 - [ ] Organização da Atenção Básica no Sistema Único de Saúde;
 - [ ] Leis 8080/90 e 8142/90;
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
