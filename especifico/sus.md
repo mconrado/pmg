@@ -55,3 +55,50 @@
 *   Os **Estados** têm o dever de **implementar as políticas nacionais e estaduais de saúde** e de **organizar o atendimento** em seu território. Participam também do financiamento. O principal gestor no nível estadual é a **Secretaria Estadual de Saúde**.
 *   Os **Municípios** são os **principais responsáveis pela saúde pública de sua população**. A partir do Pacto pela Saúde de 2006, os gestores municipais devem assumir a gestão de todas as ações e serviços de saúde do município, podendo estabelecer **termos de compromisso de gestão (pactos)** com outros municípios para garantir o acesso a serviços não disponíveis localmente (**funcionamento referenciado**). O principal gestor no nível municipal é a **Secretaria Municipal de Saúde**.
 
+
+
+
+
+<br><br> <br><br>
+**EXTRAS**
+
+**Qual é o objetivo principal do Sistema Único de Saúde (SUS)?**  
+Garantir acesso integral, universal e gratuito à saúde para todos os brasileiros.
+
+**Quais são os princípios do SUS?**  
+Universalidade, Equidade, Integralidade, Participação Popular e Controle Social.
+
+**O que significa a universalidade no contexto do SUS?**  
+Todos os cidadãos brasileiros têm direito ao acesso à saúde, sem discriminação.
+
+**O que é equidade no SUS?**  
+Todos são iguais perante o SUS e devem ser atendidos de acordo com suas necessidades individuais.
+
+**Quais são as diretrizes do SUS?**  
+Descentralização, Regionalização e Hierarquização, Participação da Comunidade.
+
+**O que é a Atenção Primária no SUS?**  
+Porta de entrada do sistema, com ações de promoção, prevenção, diagnóstico, tratamento, reabilitação e cuidados paliativos.
+
+**Qual é a principal estratégia da Atenção Primária?**  
+Programa de Saúde da Família (PSF).
+
+**O que caracteriza a Atenção Secundária no SUS?**  
+Serviços especializados em nível ambulatorial e hospitalar, com procedimentos de média complexidade.
+
+**O que é a Atenção Terciária no SUS?**  
+Serviços de alta complexidade, com procedimentos especializados e recursos tecnológicos avançados.
+
+**Quais são alguns programas de políticas públicas de saúde implementados pelo SUS?**  
+- Programa Nacional de Imunizações  
+- Programa de Saúde da Família  
+- Programa de Controle do Tabagismo  
+- Programa de Combate à AIDS  
+- Programa de Saúde Mental  
+- Programa de Saúde da Mulher  
+- Programa de Saúde da Criança  
+- Programa de Saúde do Idoso  
+- Programa de Atenção à Pessoa com Deficiência  
+
+**Qual é o papel da participação da comunidade no SUS?**  
+Através dos Conselhos de Saúde, a população pode participar da formulação e do controle das políticas públicas de saúde.

@@ -36,10 +36,11 @@
 - [X] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
   - [RESUMO](especifico/sus.md)
-- [ ] Organização da Atenção Básica no Sistema Único de Saúde (AB);
+- [X] Organização da Atenção Básica no Sistema Único de Saúde (AB);
   - https://www.youtube.com/watch?v=4og68jS0bLE
   - https://www.youtube.com/watch?v=sbR09i7DDrs
   - https://sanarmed.com/resumos-atencao-basica-a-saude-principios-e-diretrizes-ligas/
+  - [RESUMO](especifico/ab.md)
 - [ ] Leis 8080/90 e 8142/90;
   - (8080) https://www.youtube.com/watch?v=gsFwPUc0T_o
   - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
