@@ -6,7 +6,7 @@
 
 
 
-**PORTUGUÊS**
+# **PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
 - [ ] Acentuação gráfica;
 - [ ] Pontuação;
