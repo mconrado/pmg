@@ -1,4 +1,4 @@
-**Português:**
+**PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
 - [ ] Acentuação gráfica;
 - [ ] Pontuação;
@@ -9,7 +9,7 @@
 <br><br><br>
 
 
-**Matemática:**
+**MATEMÁTICA**
 - [ ] Teoria dos Conjuntos;
 - [ ] Conjuntos dos números Reais (R): operações, propriedades e problemas;
 - [ ] Cálculos Algébricos;
@@ -25,19 +25,21 @@
 <br><br><br>
 
 
-**INFORMÁTICA (todas as funções):**
+**INFORMÁTICA**
 - [ ] Sistema Operacional Microsoft Windows;
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
 <br><br><br>
 
 
-**CONHECIMENTOS ESPECÍFICOS - Atendente Administrativo:**
-- [ ] Diretrizes e bases da implantação do SUS;
+**CONHECIMENTOS ESPECÍFICOS**
+- [X] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
-- [ ] Organização da Atenção Básica no Sistema Único de Saúde;
+    (RESUMO)[especifico/sus.md]
+- [ ] Organização da Atenção Básica no Sistema Único de Saúde (AB);
+  - https://www.youtube.com/watch?v=4og68jS0bLE
+  - https://www.youtube.com/watch?v=sbR09i7DDrs
   - https://sanarmed.com/resumos-atencao-basica-a-saude-principios-e-diretrizes-ligas/
-  - https://www.youtube.com/watch?v=QIPV_N9DNHw
 - [ ] Leis 8080/90 e 8142/90;
   - (8080) https://www.youtube.com/watch?v=gsFwPUc0T_o
   - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
