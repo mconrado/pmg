@@ -35,7 +35,7 @@
 **CONHECIMENTOS ESPECÍFICOS**
 - [X] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
-  - (RESUMO)[especifico/sus.md]
+  - [RESUMO](especifico/sus.md)
 - [ ] Organização da Atenção Básica no Sistema Único de Saúde (AB);
   - https://www.youtube.com/watch?v=4og68jS0bLE
   - https://www.youtube.com/watch?v=sbR09i7DDrs
