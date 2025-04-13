@@ -10,8 +10,11 @@
 
 
 **MATEMÁTICA**
-- [ ] Teoria dos Conjuntos;
+- [X] Teoria dos Conjuntos;
+  - https://youtu.be/rDEJDS5zJ3U?feature=shared
+  - https://www.youtube.com/watch?v=5OiyoaPgsus
 - [ ] Conjuntos dos números Reais (R): operações, propriedades e problemas;
+  - https://youtu.be/VKoexh4XKwM?feature=shared&t=890 (a partir dos 14:50)
 - [ ] Cálculos Algébricos;
 - [ ] Grandezas Proporcionais - Regra de Três Simples e Composta;
 - [ ] Porcentagem e Juro Simples;
