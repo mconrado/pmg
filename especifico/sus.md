@@ -1,4 +1,4 @@
-## Resumo Completo para Estudos sobre o SUS (Conteúdo Selecionado)
+## SUS
 
 
 **Origem e Fundamentação Legal:**
