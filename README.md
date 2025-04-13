@@ -8,12 +8,23 @@
 
 **PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
+  - https://www.youtube.com/watch?v=X6g5caxEAvE
+  - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PL0fIIcbNp6cbmYdMp8yzIbX0Zoih3SNJM
 - [ ] Acentuação gráfica;
+  - https://www.youtube.com/watch?v=Sy_LUnePfRE
 - [ ] Pontuação;
+  - https://www.youtube.com/watch?v=ODkVN0kRciE
+  - https://www.youtube.com/watch?v=9tdpcfdr244
+  - https://www.youtube.com/watch?v=HwMYC5pFJGo
 - [ ] Classes gramaticais;
+  - https://www.youtube.com/watch?v=s8a6eXncWY8
 - [ ] Concordância verbal e nominal;
+  - https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
 - [ ] Pronomes: emprego e colocação;
+  - https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
 - [ ] Regência nominal e verbal.
+  - https://www.youtube.com/watch?v=kpzcFU_zNqE
+  - https://www.youtube.com/watch?v=B0EgJVneeGE
 <br><br><br>
 
 
@@ -24,10 +35,20 @@
 - [ ] Conjuntos dos números Reais (R): operações, propriedades e problemas;
   - https://youtu.be/VKoexh4XKwM?feature=shared&t=890 (a partir dos 14:50)
 - [ ] Cálculos Algébricos;
+  - https://www.youtube.com/watch?v=TyUVBbsG8ag
 - [ ] Grandezas Proporcionais - Regra de Três Simples e Composta;
+  - https://www.youtube.com/watch?v=CQFFaa9fmS0
 - [ ] Porcentagem e Juro Simples;
+  - (porcentagem) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
+  - (juro) https://www.youtube.com/watch?v=aZcETuhXxPw
+  - (juro - exercícios) https://www.youtube.com/watch?v=Xm7BTaLutyE
 - [ ] Sistema Monetário Brasileiro;
+  - https://www.youtube.com/watch?v=UnCXL1XIfa4
+  - https://www.youtube.com/watch?v=mX95xK5l9w4
 - [ ] Equação do Primeiro e Segundo Graus - problemas;
+  - (primeiro) https://www.youtube.com/watch?v=j6dy4VrsFvA
+  - (segundo) https://www.youtube.com/watch?v=eukWicEYK8w
+  - (playlist) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
 - [ ] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
 - [ ] Geometria: ponto, reta, plano – ângulos, polígonos, triângulos, quadriláteros, circunferência, círculo e seus elementos respectivos – figuras geométricas planas (perímetros e áreas) – sólidos geométricos (figuras espaciais): seus elementos e volumes;
 - [ ] Funções do 1o e 2o graus;
