@@ -8,7 +8,7 @@
 
 # **PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
-  - https://www.youtube.com/watch?v=X6g5caxEAvE
+  - https://www.youtube.com/watch?v=UkWOf0mTP28
   - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PL0fIIcbNp6cbmYdMp8yzIbX0Zoih3SNJM
 - [ ] Acentuação gráfica;
   - https://www.youtube.com/watch?v=Sy_LUnePfRE
