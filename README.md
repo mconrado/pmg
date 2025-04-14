@@ -79,6 +79,7 @@
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
   - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
+  - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
   - lei seca: https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7508.htm
