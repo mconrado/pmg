@@ -4,16 +4,6 @@ A **Lei nº 8.080/90**, também conhecida como Lei Orgânica da Saúde, é a leg
 
 A Lei 8080/90 é essencial para diversos profissionais, tanto da área da saúde quanto administrativa, pois aborda a organização do SUS, planejamento, recursos humanos e materiais, saúde indígena, entre outros aspectos. Dada sua constante evolução para se alinhar à realidade social, cultural, política e econômica, é crucial estar atualizado com suas modificações. A palestrante do vídeo recomenda sempre consultar a versão atualizada da lei no site do Planalto.
 
-**Artigos de Maior Relevância e Tendências para Provas em 2025:**
-
-*   **Artigo 3º:** Traz o conceito de saúde.
-*   **Artigo 4º:** Define o conceito de SUS.
-*   **Artigo 5º:** Apresenta os objetivos do SUS, incluindo a identificação e divulgação dos fatores condicionantes e determinantes da saúde, a formulação de políticas de saúde com base social e econômica, e a assistência às pessoas por meio de ações de promoção, proteção e recuperação, com prioridade para as ações preventivas.
-*   **Artigo 6º:** Trata do campo de atuação do SUS e é um dos artigos mais cobrados, especialmente devido às recentes inclusões de conceitos como vigilância epidemiológica, vigilância sanitária, saúde do trabalhador, saúde bucal e assistência toxicológica. As diferentes instâncias gestoras do SUS são obrigadas a disponibilizar em suas páginas eletrônicas os estoques de medicamentos nas farmácias públicas sob sua gestão, com atualização quinzenal.
-*   **Artigo 7º:** Aborda os princípios do SUS, tanto os doutrinários (universalidade, integralidade e equidade – esta última como princípio do SUS, embora não explicitamente na Lei 8080) quanto os organizativos (participação da comunidade, descentralização com ênfase na municipalização, regionalização e hierarquização). Este artigo também incorporou novos princípios e disposições sobre o atendimento a grupos específicos.
-*   **Artigo 19:** Dispõe sobre os subsistemas do SUS e também apresenta alta tendência de cobrança.
-
-Outros artigos que voltaram a ser cobrados incluem os de números 10, 12, 13, 14, 32 e 35. Artigos relacionados às atribuições da União (verbos mais amplos como "definir", "propor" - Art. 16), da União e Municípios em colaboração ("colaborar" - Art. 17), e dos Municípios ("executar" - Art. 18) também são importantes para concursos da gestão.
 
 **Principais Alterações Recentes na Lei 8080/90:**
 
