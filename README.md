@@ -9,7 +9,7 @@
 # **PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
   - https://www.youtube.com/watch?v=UkWOf0mTP28
-  - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PL0fIIcbNp6cbmYdMp8yzIbX0Zoih3SNJM
+  - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PLVyIxkvuIqxp1vpXrdsOzpL25V5srrynk 
 - [ ] Acentuação gráfica;
   - https://www.youtube.com/watch?v=Sy_LUnePfRE
 - [ ] Pontuação;
@@ -79,6 +79,7 @@
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
   - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
+  - [RESUMO LEI 8080](especifico/lei-8080.md)
   - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
