@@ -27,7 +27,7 @@ A Lei 8080/90 é essencial para diversos profissionais, tanto da área da saúde
 *   **Doutrinários:**
     *   **Universalidade:** A saúde como direito de todos e dever do Estado, garantindo o acesso aos serviços em todos os níveis de atenção.
     *   **Integralidade:** Atenção à saúde de forma integral, abrangendo todas as necessidades do indivíduo.
-    *   **Equidade:** Embora não explicitamente um princípio na redação original da Lei 8080, é um princípio doutrinário do SUS que busca reduzir as desigualdades, oferecendo mais a quem mais precisa.
+    *   **Equidade:** Embora não explicitamente um princípio na redação original da Lei 8080, é um princípio doutrinário do SUS que busca reduzir as desigualdades, oferecendo mais a quem mais precisa.**(Tomar cuidado na cobrança, é princípio implícito e não mencionado na lei)**
 *   **Organizativos:**
     *   **Descentralização:** Distribuição de poder e responsabilidades entre as diferentes esferas de governo (União, estados e municípios), com ênfase na municipalização.
     *   **Regionalização e Hierarquização:** Organização dos serviços em níveis de complexidade crescente, integrados em regiões de saúde.
