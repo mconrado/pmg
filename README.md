@@ -4,9 +4,9 @@
 - [INFORMÁTICA](#informática)
 - [CONHECIMENTOS ESPECÍFICOS](#conhecimentos-específicos)
 
-<br><br><br><br><br><br>
 
-# **PORTUGUÊS**
+
+**PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
   - https://www.youtube.com/watch?v=X6g5caxEAvE
   - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PL0fIIcbNp6cbmYdMp8yzIbX0Zoih3SNJM
@@ -28,7 +28,7 @@
 <br><br><br>
 
 
-# **MATEMÁTICA**
+**MATEMÁTICA**
 - [X] Teoria dos Conjuntos;
   - https://youtu.be/rDEJDS5zJ3U?feature=shared
   - https://www.youtube.com/watch?v=5OiyoaPgsus
@@ -57,14 +57,14 @@
 <br><br><br>
 
 
-# **INFORMÁTICA**
+**INFORMÁTICA**
 - [ ] Sistema Operacional Microsoft Windows;
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
 <br><br><br>
 
 
-# **CONHECIMENTOS ESPECÍFICOS**
+**CONHECIMENTOS ESPECÍFICOS**
 - [X] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
   - [RESUMO](especifico/sus.md)
@@ -77,7 +77,7 @@
   - (8080) https://www.youtube.com/watch?v=gsFwPUc0T_o
   - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
-  - (8080) lei seca: https://www.cofen.gov.br/wp-content/uploads/2015/12/Lei-8080-SUS.pdf
+  - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
