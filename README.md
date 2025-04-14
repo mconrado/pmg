@@ -3,10 +3,10 @@
 - [MATEMÁTICA](#matemática)
 - [INFORMÁTICA](#informática)
 - [CONHECIMENTOS ESPECÍFICOS](#conhecimentos-específicos)
+<br><br><br><br><br><br>
 
 
-
-**PORTUGUÊS**
+# **PORTUGUÊS**
 - [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
   - https://www.youtube.com/watch?v=X6g5caxEAvE
   - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PL0fIIcbNp6cbmYdMp8yzIbX0Zoih3SNJM
@@ -28,7 +28,7 @@
 <br><br><br>
 
 
-**MATEMÁTICA**
+# **MATEMÁTICA**
 - [X] Teoria dos Conjuntos;
   - https://youtu.be/rDEJDS5zJ3U?feature=shared
   - https://www.youtube.com/watch?v=5OiyoaPgsus
@@ -57,14 +57,14 @@
 <br><br><br>
 
 
-**INFORMÁTICA**
+# **INFORMÁTICA**
 - [ ] Sistema Operacional Microsoft Windows;
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
 <br><br><br>
 
 
-**CONHECIMENTOS ESPECÍFICOS**
+# **CONHECIMENTOS ESPECÍFICOS**
 - [X] Diretrizes e bases da implantação do SUS;
   - https://www.youtube.com/watch?v=vGN5pBDaAaQ
   - [RESUMO](especifico/sus.md)
