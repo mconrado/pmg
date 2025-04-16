@@ -32,10 +32,12 @@
 - [X] Teoria dos Conjuntos;
   - https://youtu.be/rDEJDS5zJ3U?feature=shared
   - https://www.youtube.com/watch?v=5OiyoaPgsus
-- [ ] Conjuntos dos números Reais (R): operações, propriedades e problemas;
+- [X] Conjuntos dos números Reais (R): operações, propriedades e problemas;
   - https://youtu.be/VKoexh4XKwM?feature=shared&t=890 (a partir dos 14:50)
 - [ ] Cálculos Algébricos;
   - https://www.youtube.com/watch?v=TyUVBbsG8ag
+  - (exemplo) https://www.youtube.com/watch?v=YHb-xGxV2Lw 
+  - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
 - [ ] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
 - [ ] Porcentagem e Juro Simples;
@@ -79,7 +81,8 @@
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
   - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
-  - [RESUMO LEI 8080 - parte 1](especifico/lei-8080.md)
+  - [RESUMO LEI 8080 - parte 1](especifico/lei-8080-parte1.md)
+  - [RESUMO LEI 8080 - parte 2](especifico/lei-8080-parte2.md)
   - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
