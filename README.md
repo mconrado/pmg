@@ -80,6 +80,9 @@
   - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
   - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
+  - (8080 - video aula explicada até art.6) https://www.youtube.com/watch?v=kPC0x_VffTk 
+  - (8080 - video aula explicada art. 7 até 18)  https://www.youtube.com/watch?v=S9MCAS6ERcE
+
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
   - [RESUMO LEI 8080 - parte 1](especifico/lei-8080-parte1.md)
   - [RESUMO LEI 8080 - parte 2](especifico/lei-8080-parte2.md)
