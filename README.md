@@ -75,7 +75,7 @@
   - https://www.youtube.com/watch?v=sbR09i7DDrs
   - https://sanarmed.com/resumos-atencao-basica-a-saude-principios-e-diretrizes-ligas/
   - [RESUMO](especifico/ab.md)
-- [ ] Leis 8080/90 e 8142/90;
+- [X] Leis 8080/90 e 8142/90;
   - (8080) https://www.youtube.com/watch?v=gsFwPUc0T_o
   - (8080) https://drive.google.com/file/d/1xEWdop4oYfz3b6XXm_Te_OYKrBtKJwnx/view?pli=1
   - (8080) 3 mudanças 2023: https://www.youtube.com/shorts/DX-umIFDvk0
@@ -100,6 +100,7 @@
   - https://www.youtube.com/watch?v=VISNlsOGdxU
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
+  - https://www.youtube.com/watch?v=BuFuHsOBTvo
 
 
 --------------------------------------------------------------------------------------------
