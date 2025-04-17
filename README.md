@@ -87,6 +87,7 @@
   - [RESUMO LEI 8080 - parte 1](especifico/lei-8080-parte1.md)
   - [RESUMO LEI 8080 - parte 2](especifico/lei-8080-parte2.md)
   - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
+  - [RESUMO LEI 8142](especifico/8142.md)
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
   - lei seca: https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7508.htm
