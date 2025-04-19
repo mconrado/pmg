@@ -102,7 +102,7 @@
   - [RESUMO LEI 8142](especifico/8142.md)
 - [ ] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
-  - lei seca: https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7508.htm
+  - [LEI SECA](especifico/7508.pdf)
 - [ ] Bases de Dados do Sistema Único de Saúde – DATASUS;
   - https://www.youtube.com/watch?v=svjtymTmI2g
 - [ ] Rotinas administrativas;
