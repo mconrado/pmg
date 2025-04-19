@@ -7,10 +7,15 @@
 
 
 # **PORTUGUÊS**
-- [ ] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
+- [X] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
   - https://www.youtube.com/watch?v=UkWOf0mTP28
-  - https://www.youtube.com/watch?v=s8a6eXncWY8&list=PLVyIxkvuIqxp1vpXrdsOzpL25V5srrynk 
+  - (playlist) https://www.youtube.com/watch?v=s8a6eXncWY8&list=PLVyIxkvuIqxp1vpXrdsOzpL25V5srrynk 
 - [ ] Acentuação gráfica;
+  - https://www.youtube.com/watch?v=pdVuXGXvj_U
+  - https://www.youtube.com/watch?v=4SyVXQTY--A
+  - https://www.youtube.com/watch?v=Rwzpt5jbL6o
+  - https://www.youtube.com/watch?v=SeYq0OA39Lk
+  - https://www.youtube.com/watch?v=7uZKnSqr9lQ
   - https://www.youtube.com/watch?v=Sy_LUnePfRE
 - [ ] Pontuação;
   - https://www.youtube.com/watch?v=ODkVN0kRciE
@@ -19,12 +24,13 @@
 - [ ] Classes gramaticais;
   - https://www.youtube.com/watch?v=s8a6eXncWY8
 - [ ] Concordância verbal e nominal;
-  - https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
+  - (playlist) https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
 - [ ] Pronomes: emprego e colocação;
-  - https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
+  - (playlist) https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
 - [ ] Regência nominal e verbal.
   - https://www.youtube.com/watch?v=kpzcFU_zNqE
   - https://www.youtube.com/watch?v=B0EgJVneeGE
+- [EXTRA] nova regra ortografia
 <br><br><br>
 
 
@@ -34,7 +40,7 @@
   - https://www.youtube.com/watch?v=5OiyoaPgsus
 - [X] Conjuntos dos números Reais (R): operações, propriedades e problemas;
   - https://youtu.be/VKoexh4XKwM?feature=shared&t=890 (a partir dos 14:50)
-- [ ] Cálculos Algébricos;
+- [X] Cálculos Algébricos;
   - https://www.youtube.com/watch?v=TyUVBbsG8ag
   - (exemplo) https://www.youtube.com/watch?v=YHb-xGxV2Lw 
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
@@ -52,7 +58,13 @@
   - (segundo) https://www.youtube.com/watch?v=eukWicEYK8w
   - (playlist) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
 - [ ] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
-- [ ] Geometria: ponto, reta, plano – ângulos, polígonos, triângulos, quadriláteros, circunferência, círculo e seus elementos respectivos – figuras geométricas planas (perímetros e áreas) – sólidos geométricos (figuras espaciais): seus elementos e volumes;
+  - (playlist) https://www.youtube.com/watch?v=dHr5phd_qL8&list=PLGyv8aUrOlzBS5DOoqSRv77bAFor9ON90
+- [ ] Geometria: 
+  - ponto, reta, plano 
+    - https://www.youtube.com/watch?v=Xe3ijQG5mtQ
+  – ângulos, polígonos, triângulos, quadriláteros, circunferência, círculo e seus elementos respectivos – figuras geométricas planas (perímetros e áreas) 
+  – sólidos geométricos (figuras espaciais): seus elementos e volumes;
+  - (figuras geométricas planas) https://www.youtube.com/watch?v=vdQMamMsPN4&list=PLGyv8aUrOlzALelPuh2462IQwWtQJPZdO
 - [ ] Funções do 1o e 2o graus;
 - [ ] Sequências, Progressões Aritméticas e Geométricas;
 - [ ] Resolução de problemas.
@@ -95,7 +107,7 @@
   - https://www.youtube.com/watch?v=svjtymTmI2g
 - [ ] Rotinas administrativas;
   - https://www.youtube.com/watch?v=veQxDB7VXhU
-  - https://www.youtube.com/watch?v=kq1tOJnWJKM&list=PLOsycOQybQqdoRJd_qCVcJgjFx09XfzUw
+  - (playlist) https://www.youtube.com/watch?v=kq1tOJnWJKM&list=PLOsycOQybQqdoRJd_qCVcJgjFx09XfzUw
 - [ ] Redação oficial;
   - https://www.youtube.com/watch?v=AYUoW1hd78c
   - https://www.youtube.com/watch?v=VISNlsOGdxU
