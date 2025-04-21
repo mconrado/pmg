@@ -100,9 +100,10 @@
   - [RESUMO LEI 8080 - parte 2](especifico/lei-8080-parte2.md)
   - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
   - [RESUMO LEI 8142](especifico/8142.md)
-- [ ] Decreto Federal no 7.508, de 28/06/2011;
+- [X] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
   - [LEI SECA](especifico/7508.pdf)
+  - [RESUMO](especifico/7508.md)
 - [ ] Bases de Dados do Sistema Único de Saúde – DATASUS;
   - https://www.youtube.com/watch?v=svjtymTmI2g
 - [ ] Rotinas administrativas;
