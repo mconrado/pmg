@@ -11,16 +11,19 @@
   - https://www.youtube.com/watch?v=UkWOf0mTP28
   - (playlist) https://www.youtube.com/watch?v=s8a6eXncWY8&list=PLVyIxkvuIqxp1vpXrdsOzpL25V5srrynk 
 - [ ] Acentuação gráfica;
-  - https://www.youtube.com/watch?v=pdVuXGXvj_U
-  - https://www.youtube.com/watch?v=4SyVXQTY--A
-  - https://www.youtube.com/watch?v=Rwzpt5jbL6o
-  - https://www.youtube.com/watch?v=SeYq0OA39Lk
-  - https://www.youtube.com/watch?v=7uZKnSqr9lQ
-  - https://www.youtube.com/watch?v=Sy_LUnePfRE
+  - (ditongo) https://www.youtube.com/watch?v=pdVuXGXvj_U
+  - (hiato) https://www.youtube.com/watch?v=4SyVXQTY--A
+  - (tritongo) https://www.youtube.com/watch?v=Rwzpt5jbL6o
+  - (proparoxítona ocasionais) https://www.youtube.com/watch?v=SeYq0OA39Lk
+  - (acentuação) https://www.youtube.com/watch?v=Sy_LUnePfRE
+  - (acentuação paroxítonas e proparoxítonas) https://www.youtube.com/watch?v=BlwyT5X5UsA
+  - (acentuação quando hiato) https://www.youtube.com/watch?v=7uZKnSqr9lQ
+  - (acentuação ditongo) https://www.youtube.com/watch?v=CCiVp0Mmmwk 
+  - (acentuação verbo) https://www.youtube.com/watch?v=aBqlNkq6Vm4
 - [ ] Pontuação;
-  - https://www.youtube.com/watch?v=ODkVN0kRciE
-  - https://www.youtube.com/watch?v=9tdpcfdr244
-  - https://www.youtube.com/watch?v=HwMYC5pFJGo
+  - parte 1 https://www.youtube.com/watch?v=ODkVN0kRciE
+  - parte 2 https://www.youtube.com/watch?v=9tdpcfdr244
+  - parte 3 https://www.youtube.com/watch?v=HwMYC5pFJGo
 - [ ] Classes gramaticais;
   - https://www.youtube.com/watch?v=s8a6eXncWY8
 - [ ] Concordância verbal e nominal;
@@ -28,9 +31,11 @@
 - [ ] Pronomes: emprego e colocação;
   - (playlist) https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
 - [ ] Regência nominal e verbal.
-  - https://www.youtube.com/watch?v=kpzcFU_zNqE
-  - https://www.youtube.com/watch?v=B0EgJVneeGE
+  - nominal https://www.youtube.com/watch?v=kpzcFU_zNqE
+  - verbal https://www.youtube.com/watch?v=B0EgJVneeGE
 - [EXTRA] nova regra ortografia
+  - parte 1 https://www.youtube.com/watch?v=LhW_Ee3Wkms
+  - parte 2 https://www.youtube.com/watch?v=2Ou4ApRLj88
 <br><br><br>
 
 
@@ -44,7 +49,7 @@
   - https://www.youtube.com/watch?v=TyUVBbsG8ag
   - (exemplo) https://www.youtube.com/watch?v=YHb-xGxV2Lw 
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
-- [ ] Grandezas Proporcionais - Regra de Três Simples e Composta;
+- [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
 - [ ] Porcentagem e Juro Simples;
   - (porcentagem) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG

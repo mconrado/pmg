@@ -71,10 +71,10 @@ A equipe multiprofissional é composta por médico, enfermeiro, dentista, auxili
 **Qual é a função da Atenção Básica na rede de saúde?**  
 A função da atenção básica à saúde é promover a saúde e a qualidade de vida da comunidade, orientando sobre prevenção de doenças e resolvendo casos de agravos com cerca de 80% dos problemas de saúde da população.
 
-**Quais são os três princípios da PNAB?**  
+**Quais são os três princípios da Política Nacional de Atenção Básica (PNAB)?**  
 Os princípios são: universalidade, equidade e integralidade.
 
-**Quais são as diretrizes da PNAB?**  
+**Quais são as diretrizes da Política Nacional de Atenção Básica (PNAB)?**  
 **R**ui **T**udo **P**or **C**ausa **R**ei **L**ouco **C**om **O**ssos **P**rofundos:  
 - **R**egionalização e hierarquização  
 - **T**erritorialização  
