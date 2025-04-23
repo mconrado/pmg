@@ -16,10 +16,10 @@
   - (tritongo) https://www.youtube.com/watch?v=Rwzpt5jbL6o
   - (proparoxítona ocasionais) https://www.youtube.com/watch?v=SeYq0OA39Lk
   - (acentuação) https://www.youtube.com/watch?v=Sy_LUnePfRE
-  - (acentuação paroxítonas e proparoxítonas) https://www.youtube.com/watch?v=BlwyT5X5UsA
   - (acentuação quando hiato) https://www.youtube.com/watch?v=7uZKnSqr9lQ
   - (acentuação ditongo) https://www.youtube.com/watch?v=CCiVp0Mmmwk 
   - (acentuação verbo) https://www.youtube.com/watch?v=aBqlNkq6Vm4
+  - (exercícios) https://www.youtube.com/watch?v=Hlxt0mP4tNE
 - [ ] Pontuação;
   - parte 1 https://www.youtube.com/watch?v=ODkVN0kRciE
   - parte 2 https://www.youtube.com/watch?v=9tdpcfdr244
@@ -52,7 +52,7 @@
 - [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
 - [ ] Porcentagem e Juro Simples;
-  - (porcentagem) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
+  - (porcentagem e exercícios) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
   - (juro) https://www.youtube.com/watch?v=aZcETuhXxPw
   - (juro - exercícios) https://www.youtube.com/watch?v=Xm7BTaLutyE
 - [ ] Sistema Monetário Brasileiro;
@@ -80,6 +80,7 @@
 - [ ] Sistema Operacional Microsoft Windows;
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
+(questões) https://www.youtube.com/watch?v=NZjoV8XrROM
 <br><br><br>
 
 
@@ -109,17 +110,21 @@
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
   - [LEI SECA](especifico/7508.pdf)
   - [RESUMO](especifico/7508.md)
-- [ ] Bases de Dados do Sistema Único de Saúde – DATASUS;
-  - https://www.youtube.com/watch?v=svjtymTmI2g
+- [X] Bases de Dados do Sistema Único de Saúde – DATASUS;
+  - https://www.youtube.com/watch?v=x-pgsec5lzA 
+  - [RESUMO](especifico/datsus.md)
 - [ ] Rotinas administrativas;
   - https://www.youtube.com/watch?v=veQxDB7VXhU
-  - (playlist) https://www.youtube.com/watch?v=kq1tOJnWJKM&list=PLOsycOQybQqdoRJd_qCVcJgjFx09XfzUw
+  - (teoria) https://www.youtube.com/watch?v=veQxDB7VXhU
+  - (teoria + exercicios) https://www.youtube.com/watch?v=Wv5XCehPJFU
+  - (mais exercicios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
 - [ ] Redação oficial;
   - https://www.youtube.com/watch?v=AYUoW1hd78c
   - https://www.youtube.com/watch?v=VISNlsOGdxU
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
+  - (exercicios) https://www.youtube.com/watch?v=a2JRI9rKjAw
 
 
 --------------------------------------------------------------------------------------------
