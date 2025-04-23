@@ -80,7 +80,7 @@
 - [ ] Sistema Operacional Microsoft Windows;
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
-(questões) https://www.youtube.com/watch?v=NZjoV8XrROM
+  - (questões) https://www.youtube.com/watch?v=NZjoV8XrROM
 <br><br><br>
 
 
