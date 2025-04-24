@@ -116,15 +116,16 @@
 - [ ] Rotinas administrativas;
   - https://www.youtube.com/watch?v=veQxDB7VXhU
   - (teoria) https://www.youtube.com/watch?v=veQxDB7VXhU
-  - (teoria + exercicios) https://www.youtube.com/watch?v=Wv5XCehPJFU
-  - (mais exercicios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
+  - (teoria + exercícioss) https://www.youtube.com/watch?v=Wv5XCehPJFU
+  - (mais exercícios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
+  - [RESUMO](especifico/rotinas-adm.md)
 - [ ] Redação oficial;
   - https://www.youtube.com/watch?v=AYUoW1hd78c
   - https://www.youtube.com/watch?v=VISNlsOGdxU
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
-  - (exercicios) https://www.youtube.com/watch?v=a2JRI9rKjAw
+  - (exercícios) https://www.youtube.com/watch?v=a2JRI9rKjAw
 
 
 --------------------------------------------------------------------------------------------
