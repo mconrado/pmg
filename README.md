@@ -10,7 +10,7 @@
 - [X] Questões que possibilitem avaliar a capacidade de Interpretação de texto, conhecimento da norma culta na modalidade escrita do idioma e aplicação da Ortografia oficial;
   - https://www.youtube.com/watch?v=UkWOf0mTP28
   - (playlist) https://www.youtube.com/watch?v=s8a6eXncWY8&list=PLVyIxkvuIqxp1vpXrdsOzpL25V5srrynk 
-- [ ] Acentuação gráfica;
+- [X] Acentuação gráfica;
   - (ditongo) https://www.youtube.com/watch?v=pdVuXGXvj_U
   - (hiato) https://www.youtube.com/watch?v=4SyVXQTY--A
   - (tritongo) https://www.youtube.com/watch?v=Rwzpt5jbL6o
@@ -20,11 +20,11 @@
   - (acentuação ditongo) https://www.youtube.com/watch?v=CCiVp0Mmmwk 
   - (acentuação verbo) https://www.youtube.com/watch?v=aBqlNkq6Vm4
   - (exercícios) https://www.youtube.com/watch?v=Hlxt0mP4tNE
-- [ ] Pontuação;
+- [X] Pontuação;
   - parte 1 https://www.youtube.com/watch?v=ODkVN0kRciE
   - parte 2 https://www.youtube.com/watch?v=9tdpcfdr244
   - parte 3 https://www.youtube.com/watch?v=HwMYC5pFJGo
-- [ ] Classes gramaticais;
+- [X] Classes gramaticais;
   - https://www.youtube.com/watch?v=s8a6eXncWY8
 - [ ] Concordância verbal e nominal;
   - (playlist) https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
@@ -33,9 +33,13 @@
 - [ ] Regência nominal e verbal.
   - nominal https://www.youtube.com/watch?v=kpzcFU_zNqE
   - verbal https://www.youtube.com/watch?v=B0EgJVneeGE
-- [EXTRA] nova regra ortografia
-  - parte 1 https://www.youtube.com/watch?v=LhW_Ee3Wkms
-  - parte 2 https://www.youtube.com/watch?v=2Ou4ApRLj88
+- [EXTRA] 
+  - nova regra ortografia
+    - parte 1 https://www.youtube.com/watch?v=LhW_Ee3Wkms
+    - parte 2 https://www.youtube.com/watch?v=2Ou4ApRLj88
+  - crase
+    - parte 1 https://www.youtube.com/watch?v=yUpRa62vcSI
+    - parte 2 https://www.youtube.com/watch?v=8-5pg3PuY8o
 <br><br><br>
 
 
@@ -113,15 +117,19 @@
 - [X] Bases de Dados do Sistema Único de Saúde – DATASUS;
   - https://www.youtube.com/watch?v=x-pgsec5lzA 
   - [RESUMO](especifico/datsus.md)
-- [ ] Rotinas administrativas;
+- [X] Rotinas administrativas;
   - https://www.youtube.com/watch?v=veQxDB7VXhU
   - (teoria) https://www.youtube.com/watch?v=veQxDB7VXhU
   - (teoria + exercícioss) https://www.youtube.com/watch?v=Wv5XCehPJFU
   - (mais exercícios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
   - [RESUMO](especifico/rotinas-adm.md)
 - [ ] Redação oficial;
-  - https://www.youtube.com/watch?v=AYUoW1hd78c
-  - https://www.youtube.com/watch?v=VISNlsOGdxU
+  - (conceito + exercícios simples) https://www.youtube.com/watch?v=AYUoW1hd78c
+  - **RECOMENDADOS**:
+    - (MRPR exercícios de concurso - parte 1) https://www.youtube.com/live/VISNlsOGdxU
+    - (MRPR exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
+    - (MRPR exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
+    - (MRPR questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
