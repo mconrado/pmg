@@ -55,13 +55,14 @@
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
 - [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
-- [ ] Porcentagem e Juro Simples;
+- [X] Porcentagem e Juro Simples;
   - (porcentagem e exercícios) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
   - (juro) https://www.youtube.com/watch?v=aZcETuhXxPw
   - (juro - exercícios) https://www.youtube.com/watch?v=Xm7BTaLutyE
-- [ ] Sistema Monetário Brasileiro;
-  - https://www.youtube.com/watch?v=UnCXL1XIfa4
-  - https://www.youtube.com/watch?v=mX95xK5l9w4
+- [X] Sistema Monetário Brasileiro;
+  - (simples) https://www.youtube.com/watch?v=UnCXL1XIfa4
+  - (pequeno exercício) https://www.youtube.com/watch?v=mX95xK5l9w4
+  - (mais exercícios) https://www.youtube.com/watch?v=0CHW7iwkBsI
 - [ ] Equação do Primeiro e Segundo Graus - problemas;
   - (primeiro) https://www.youtube.com/watch?v=j6dy4VrsFvA
   - (segundo) https://www.youtube.com/watch?v=eukWicEYK8w
@@ -123,13 +124,14 @@
   - (teoria + exercícioss) https://www.youtube.com/watch?v=Wv5XCehPJFU
   - (mais exercícios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
   - [RESUMO](especifico/rotinas-adm.md)
-- [ ] Redação oficial;
+- [X] Redação oficial;
   - (conceito + exercícios simples) https://www.youtube.com/watch?v=AYUoW1hd78c
   - **RECOMENDADOS**:
-    - (MRPR exercícios de concurso - parte 1) https://www.youtube.com/live/VISNlsOGdxU
-    - (MRPR exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
-    - (MRPR exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
-    - (MRPR questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
+    - (MRPR com exercícios de concurso - parte 1) https://www.youtube.com/live/VISNlsOGdxU
+    - (MRPR com exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
+    - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
+    - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
+    - [RESUMO](especifico/mrpr.md)
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
