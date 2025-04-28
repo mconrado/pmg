@@ -131,7 +131,7 @@
     - (MRPR com exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
     - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
     - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
-    - [RESUMO](especifico/mrpr.md)
+  - [RESUMO](especifico/mrpr.md)
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
