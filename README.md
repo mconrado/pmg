@@ -41,6 +41,7 @@
     - parte 1 https://www.youtube.com/watch?v=yUpRa62vcSI
     - parte 2 https://www.youtube.com/watch?v=8-5pg3PuY8o
 <br><br><br>
+- [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=1&examining_board_ids%5B%5D=81&scholarity_ids%5B%5D=2)
 
 
 # **MATEMÁTICA**
@@ -55,14 +56,13 @@
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
 - [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
-- [X] Porcentagem e Juro Simples;
+- [ ] Porcentagem e Juro Simples;
   - (porcentagem e exercícios) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
   - (juro) https://www.youtube.com/watch?v=aZcETuhXxPw
   - (juro - exercícios) https://www.youtube.com/watch?v=Xm7BTaLutyE
-- [X] Sistema Monetário Brasileiro;
-  - (simples) https://www.youtube.com/watch?v=UnCXL1XIfa4
-  - (pequeno exercício) https://www.youtube.com/watch?v=mX95xK5l9w4
-  - (mais exercícios) https://www.youtube.com/watch?v=0CHW7iwkBsI
+- [ ] Sistema Monetário Brasileiro;
+  - https://www.youtube.com/watch?v=UnCXL1XIfa4
+  - https://www.youtube.com/watch?v=mX95xK5l9w4
 - [ ] Equação do Primeiro e Segundo Graus - problemas;
   - (primeiro) https://www.youtube.com/watch?v=j6dy4VrsFvA
   - (segundo) https://www.youtube.com/watch?v=eukWicEYK8w
@@ -131,11 +131,15 @@
     - (MRPR com exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
     - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
     - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
-  - [RESUMO](especifico/mrpr.md)
 - [ ] Arquivamento.
   - https://www.youtube.com/watch?v=0aZhWhBpFpc
   - https://www.youtube.com/watch?v=BuFuHsOBTvo
   - (exercícios) https://www.youtube.com/watch?v=a2JRI9rKjAw
+  - [SIMULADO](https://www.qconcursos.com/questoes-de-concursos/disciplinas/arquivologia-arquivologia/arquivamento/questoes)
+  - [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=20&examining_board_ids%5B%5D=81)
 
+QCONRCUSO
+pocaxi5529@cyluna.com
+teste123
 
 --------------------------------------------------------------------------------------------
