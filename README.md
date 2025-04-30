@@ -28,6 +28,8 @@
   - https://www.youtube.com/watch?v=s8a6eXncWY8
 - [ ] Concordância verbal e nominal;
   - (playlist) https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
+  - (exercícios concordância verbal): https://www.youtube.com/watch?v=dsGnrOe3-Ys
+  - (exercícios complementares): https://www.youtube.com/watch?v=q8YEHJ-2cgk
 - [ ] Pronomes: emprego e colocação;
   - (playlist) https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
 - [ ] Regência nominal e verbal.
@@ -56,17 +58,17 @@
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
 - [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
-- [ ] Porcentagem e Juro Simples;
+- [X] Porcentagem e Juro Simples;
   - (porcentagem e exercícios) https://www.youtube.com/watch?v=OjOyNmTt7Mw&list=PLGyv8aUrOlzDEaVkLuw5s41OpbydcFnCG
   - (juro) https://www.youtube.com/watch?v=aZcETuhXxPw
   - (juro - exercícios) https://www.youtube.com/watch?v=Xm7BTaLutyE
-- [ ] Sistema Monetário Brasileiro;
-  - https://www.youtube.com/watch?v=UnCXL1XIfa4
-  - https://www.youtube.com/watch?v=mX95xK5l9w4
+- [X] Sistema Monetário Brasileiro;
+  - (exercícios simples) https://www.youtube.com/watch?v=UnCXL1XIfa4
+  - (exercícios simples e avançado) https://www.youtube.com/watch?v=0CHW7iwkBsI
+  - (exercício rápido) https://www.youtube.com/watch?v=mX95xK5l9w4
 - [ ] Equação do Primeiro e Segundo Graus - problemas;
-  - (primeiro) https://www.youtube.com/watch?v=j6dy4VrsFvA
-  - (segundo) https://www.youtube.com/watch?v=eukWicEYK8w
-  - (playlist) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
+  - (primeiro grau) https://www.youtube.com/watch?v=j6dy4VrsFvA
+  - (segundo grau) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
 - [ ] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
   - (playlist) https://www.youtube.com/watch?v=dHr5phd_qL8&list=PLGyv8aUrOlzBS5DOoqSRv77bAFor9ON90
 - [ ] Geometria: 
@@ -132,9 +134,11 @@
     - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
     - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
 - [ ] Arquivamento.
-  - https://www.youtube.com/watch?v=0aZhWhBpFpc
-  - https://www.youtube.com/watch?v=BuFuHsOBTvo
+  - (arquivologia) https://www.youtube.com/watch?v=0aZhWhBpFpc
+  - (noções de arquivamento) https://www.youtube.com/watch?v=ns5UVXoPyHk&list=PLrqB0tn-lgbN4T0WXb2FNzoV1YTDl6dyq
   - (exercícios) https://www.youtube.com/watch?v=a2JRI9rKjAw
+  - [RESUMO ARQUIVOLOGIA](/especifico/arquivologia.md)
+  - [RESUMO ARQUIVAMENTO](/especifico/arquivamento.md)
   - [SIMULADO](https://www.qconcursos.com/questoes-de-concursos/disciplinas/arquivologia-arquivologia/arquivamento/questoes)
   - [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=20&examining_board_ids%5B%5D=81)
 
