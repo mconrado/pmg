@@ -31,19 +31,28 @@ As três finalidades/funções principais do arquivo são:<br><br>
 
 ## Métodos de Arquivamento
 
-Os métodos de arquivamento visam facilitar a localização dos documentos.<br><br>
-Exemplos de métodos incluem:<br><br>
-- **Alfabético**: Utiliza nomes (pessoas, empresas).<br><br>
-- **Numérico**: Utiliza números (CPF, telefone). É frequentemente usado quando o volume de documentos é alto, pois a probabilidade de erro na localização é menor.<br><br>
-- **Geográfico**: Baseado na localidade.<br><br>
-- **Ideográfico**: Baseado no assunto.<br><br>
-Muitas empresas utilizam métodos combinados para facilitar a consulta.<br><br>
+1.  **Regras de Alfabetação**: Organização por **ordem alfabética**. Consiste em regras que ditam como os arquivos devem ser arquivados.<br><br>
+2.  **Método Geográfico**: Arquivamento de acordo com o **local ou procedência** dos documentos. A sequência considerada geralmente é: país, estado, cidade, região, distrito, bairro, zona, etc.. A organização dentro de cada localidade segue o método alfabético.<br><br>
+3.  **Método Numérico Simples**: O elemento principal é o **número**. Todo documento recebe um número conforme a **ordem de chegada**. Para consultar, é preciso saber esse número. O documento recebe um número de pasta e um número sequencial que corresponde à ordem de entrada. É usado esse número para procurar o documento no arquivo.<br><br>
+4.  **Método Cronológico**: Baseia-se em **datas** (emissão, recepção, fabricação). Os documentos são arquivados pela sua **ordem cronológica de produção ou recebimento**. Eles não numeram a pasta, mas o próprio documento é arquivado. Cada documento recebe um único registro.<br><br>
+5.  **Método Dígito-Terminal**: Leva em consideração uma sequência de códigos numéricos divididos em **grupos de dígitos lidos da direita para a esquerda**. Indica a disposição física dos documentos. Usado para **grande volume de informação**. Para evitar trabalhar com números extensos, divide-se em três pares (grupos de dois dígitos). A leitura é sempre feita da direita para a esquerda.<br><br>
+6.  **Método Ideográfico**: Considera o **assunto** do documento. É organizado também por ordem alfabética.<br><br>
+7.  **Método Duplex**: Os documentos são divididos em **grandes classes por assuntos**. Podem ser subdivididos em **classes subordinadas**. Utiliza **notações numéricas** que dividem o arquivo em classes e subclasses. **Não há limitação** na quantidade de classes a ser utilizada.<br><br>
+8.  **Método Padronizado Variadex**: Tem como elemento as **letras do alfabeto representadas por cores bem distintas**. Usa letras e um recurso visual (cores) para distinguir documentos.<br><br>
+9.  **Método Padronizado Soundex**: Leva em conta a **fonética** e não a grafia dos nomes. Considera o som das palavras, não apenas as letras.<br><br>
+10. **Método Padronizado Mnemônico**: Utiliza a **memória**, usando **palavras-chaves** de fácil memorização e associação de palavras para organizar documentos.<br><br>
+11. **Método Padronizado Automático**: Os papéis são arquivados com **guias e pastas que já indicam as divisões das letras do alfabeto**. Costuma ser utilizado na Europa. Combina letras, números e cores.<br><br>
+12. **Método Alfanumérico**: Combina **letras do alfabeto com números**. É feita uma combinação de nomes (ligados ao assunto) e dígitos. Muito utilizado em **arquivos de grande porte**. Permite quase infinitas combinações.<br><br>
 
 ## Tipos de Arquivamento (Posição Física)
 
 Depende da posição física do documento.<br><br>
-- **Vertical**: O documento fica em pé (como livros em uma estante). É mais comum.<br><br>
-- **Horizontal**: O documento fica deitado. Usado para documentos que se deteriorariam se ficassem em pé, como plantas arquitetônicas enroladas. A desvantagem é ter que manusear os documentos de cima para acessar os de baixo.<br><br>
+*   **Arquivamento Vertical**: Os documentos e fichas são colocados um atrás do outro.
+    *   Permite uma **consulta mais rápida** porque não é necessário manipular outros documentos para encontrar o desejado.
+    *   É **ideal para arquivos correntes**, que são utilizados com frequência.<br><br>
+*   **Arquivamento Horizontal**: Os documentos ou fichas são colocados uns sobre os outros.
+    *   Geralmente são guardados em caixas para evitar que amassem ou sejam estragados.
+    *   É **ideal para arquivos permanentes**, pois não são usados com tanta frequência e a preservação é importante.
 
 ## Órgãos de Documentação
 

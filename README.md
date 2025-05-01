@@ -66,9 +66,10 @@
   - (exercícios simples) https://www.youtube.com/watch?v=UnCXL1XIfa4
   - (exercícios simples e avançado) https://www.youtube.com/watch?v=0CHW7iwkBsI
   - (exercício rápido) https://www.youtube.com/watch?v=mX95xK5l9w4
-- [ ] Equação do Primeiro e Segundo Graus - problemas;
+- [X] Equação do Primeiro e Segundo Graus - problemas;
   - (primeiro grau) https://www.youtube.com/watch?v=j6dy4VrsFvA
   - (segundo grau) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
+  - (dica/macete rápido de bhaskara) https://www.youtube.com/shorts/rFQIh0ZpwqM
 - [ ] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
   - (playlist) https://www.youtube.com/watch?v=dHr5phd_qL8&list=PLGyv8aUrOlzBS5DOoqSRv77bAFor9ON90
 - [ ] Geometria: 
@@ -133,7 +134,7 @@
     - (MRPR com exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
     - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
     - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
-- [ ] Arquivamento.
+- [X] Arquivamento.
   - (arquivologia) https://www.youtube.com/watch?v=0aZhWhBpFpc
   - (noções de arquivamento) https://www.youtube.com/watch?v=ns5UVXoPyHk&list=PLrqB0tn-lgbN4T0WXb2FNzoV1YTDl6dyq
   - (exercícios) https://www.youtube.com/watch?v=a2JRI9rKjAw
