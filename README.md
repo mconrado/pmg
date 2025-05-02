@@ -26,7 +26,7 @@
   - parte 3 https://www.youtube.com/watch?v=HwMYC5pFJGo
 - [X] Classes gramaticais;
   - https://www.youtube.com/watch?v=s8a6eXncWY8
-- [ ] Concordância verbal e nominal;
+- [X] Concordância verbal e nominal;
   - (playlist) https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
   - (exercícios concordância verbal): https://www.youtube.com/watch?v=dsGnrOe3-Ys
   - (exercícios complementares): https://www.youtube.com/watch?v=q8YEHJ-2cgk
