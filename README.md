@@ -30,11 +30,13 @@
   - (playlist) https://www.youtube.com/watch?v=iZ7Ryffdoc0&list=PLVyIxkvuIqxrWzr02zC_SjQWmqIAR25wH
   - (exercícios concordância verbal): https://www.youtube.com/watch?v=dsGnrOe3-Ys
   - (exercícios complementares): https://www.youtube.com/watch?v=q8YEHJ-2cgk
-- [ ] Pronomes: emprego e colocação;
+- [X] Pronomes: emprego e colocação;
   - (playlist) https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
 - [ ] Regência nominal e verbal.
-  - nominal https://www.youtube.com/watch?v=kpzcFU_zNqE
+  - (sintaxe do verbo - opcional) https://www.youtube.com/watch?v=uPoNVpFf4FQ
+  - (transitividade verbal - opcional) https://www.youtube.com/watch?v=y2haxLgR4BM
   - verbal https://www.youtube.com/watch?v=B0EgJVneeGE
+  - nominal https://www.youtube.com/watch?v=kpzcFU_zNqE
 - [EXTRA] 
   - nova regra ortografia
     - parte 1 https://www.youtube.com/watch?v=LhW_Ee3Wkms
