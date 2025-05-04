@@ -32,10 +32,12 @@
   - (exercícios complementares): https://www.youtube.com/watch?v=q8YEHJ-2cgk
 - [X] Pronomes: emprego e colocação;
   - (playlist) https://www.youtube.com/playlist?list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD
-- [ ] Regência nominal e verbal.
+- [X] Regência nominal e verbal.
   - (sintaxe do verbo - opcional) https://www.youtube.com/watch?v=uPoNVpFf4FQ
   - (transitividade verbal - opcional) https://www.youtube.com/watch?v=y2haxLgR4BM
-  - verbal https://www.youtube.com/watch?v=B0EgJVneeGE
+  - verbal 1: https://www.youtube.com/watch?v=B0EgJVneeGE
+  - verbal 2: https://www.youtube.com/watch?v=r4Pew3CliXI
+  - exercícios: https://www.youtube.com/watch?v=VqRrP8pnMok&pp=0gcJCYQJAYcqIYzv 
   - nominal https://www.youtube.com/watch?v=kpzcFU_zNqE
 - [EXTRA] 
   - nova regra ortografia
