@@ -59,6 +59,7 @@
 - [X] Cálculos Algébricos;
   - https://www.youtube.com/watch?v=TyUVBbsG8ag
   - (exemplo) https://www.youtube.com/watch?v=YHb-xGxV2Lw 
+  - (expressões equivalentes): https://www.youtube.com/watch?v=4_zB2dW3LYc
   - (exercícios) https://www.youtube.com/watch?v=4-P_0p17sGM
 - [X] Grandezas Proporcionais - Regra de Três Simples e Composta;
   - https://www.youtube.com/watch?v=CQFFaa9fmS0
