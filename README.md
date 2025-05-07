@@ -86,6 +86,7 @@
 - [ ] Funções do 1o e 2o graus;
 - [ ] Sequências, Progressões Aritméticas e Geométricas;
 - [ ] Resolução de problemas.
+-[SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=13&examining_board_ids%5B%5D=81&scholarity_ids%5B%5D=2)
 <br><br><br>
 
 
@@ -94,6 +95,7 @@
 - [ ] Microsoft Office: Editor de textos Word e Planilha Excel;
 - [ ] Internet e ferramentas Microsoft Office (2013, 2016).
   - (questões) https://www.youtube.com/watch?v=NZjoV8XrROM
+  - [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?q=&discipline_ids%5B%5D=46&examining_board_ids%5B%5D=81&scholarity_ids%5B%5D=2)
 <br><br><br>
 
 
