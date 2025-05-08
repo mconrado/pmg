@@ -115,12 +115,14 @@
   - (8080) [LEI SECA](especifico/8080-atualizada.pdf)
   - (8080 - video aula explicada até art.6) https://www.youtube.com/watch?v=kPC0x_VffTk 
   - (8080 - video aula explicada art. 7 até 18)  https://www.youtube.com/watch?v=S9MCAS6ERcE
+  - [SIMULADO 8080](https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=81&q=8080)
 
   - (8142) https://www.youtube.com/watch?v=cWmRsZ8tv84
   - [RESUMO LEI 8080 - parte 1](especifico/lei-8080-parte1.md)
   - [RESUMO LEI 8080 - parte 2](especifico/lei-8080-parte2.md)
   - [RESUMO MUDANÇAS 8080](especifico/8080-mudancas.md)
   - [RESUMO LEI 8142](especifico/8142.md)
+  - [SIMULADO 8142](https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=81&q=8142)
 - [X] Decreto Federal no 7.508, de 28/06/2011;
   - https://www.youtube.com/watch?v=Ml2_0-TtvDw
   - [LEI SECA](especifico/7508.pdf)
