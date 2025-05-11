@@ -136,6 +136,7 @@
   - (teoria + exercícioss) https://www.youtube.com/watch?v=Wv5XCehPJFU
   - (mais exercícios) https://www.youtube.com/watch?v=CUhcMR4Ouq8
   - [RESUMO](especifico/rotinas-adm.md)
+  - [QUESTÕES](https://www.youtube.com/watch?v=a9asjyDpZkc)
 - [X] Redação oficial;
   - (conceito + exercícios simples) https://www.youtube.com/watch?v=AYUoW1hd78c
   - **RECOMENDADOS**:
@@ -143,6 +144,7 @@
     - (MRPR com exercícios de concurso - parte 2) https://www.youtube.com/watch?v=uwU3zgkeG14
     - (MRPR com exercícios de concurso - parte 3) https://www.youtube.com/watch?v=PU0016nQ2js
     - (MRPR com questões atualizadas) https://www.youtube.com/watch?v=Uy7EXI50-2c
+  - [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=81&exclude_outdated=true&q=reda%C3%A7%C3%A3o%20oficial)
 - [X] Arquivamento.
   - (arquivologia) https://www.youtube.com/watch?v=0aZhWhBpFpc
   - (noções de arquivamento) https://www.youtube.com/watch?v=ns5UVXoPyHk&list=PLrqB0tn-lgbN4T0WXb2FNzoV1YTDl6dyq
@@ -154,6 +156,9 @@
 
 QCONRCUSO
 pocaxi5529@cyluna.com
+toyisah753@hazhab.com
+
 teste123
+
 
 --------------------------------------------------------------------------------------------
