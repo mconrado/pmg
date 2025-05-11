@@ -15,12 +15,32 @@
 *   O SUS é considerado um dos sistemas públicos de saúde **mais abrangentes do mundo**, cobrindo desde campanhas simples até atendimentos complexos.
 *   O **fundamento do SUS** é o **conceito ampliado de saúde**, que não se limita ao tratamento de doenças, mas também engloba a **promoção da qualidade de vida e a prevenção de doenças**.
 
+<br><br> <br><br>
 **Princípios do SUS (oriundos da Constituição Federal de 1988):**
 
-*   **Universalidade**: Garante que **todas as pessoas têm direito ao acesso a todos e quaisquer serviços de saúde**, sejam brasileiros ou estrangeiros em território nacional.
-*   **Equidade**: Assegura que **todos os cidadãos têm acesso à saúde de forma igualitária** em termos de condições, independentemente da complexidade do caso. O atendimento deve considerar as necessidades individuais e coletivas, e os riscos à saúde, de modo que quem precisa mais recebe mais para garantir a igualdade de condições.
-*   **Integralidade**: O SUS deve atender aos usuários em **todas as suas necessidades de saúde**. As ações devem ser abrangentes, desde vacinação até programas, palestras, exames, internações e qualquer outra necessidade. A **prioridade é a prevenção**, mas sem prejuízo dos serviços assistenciais. A integralidade também compreende a visão do indivíduo como um todo, considerando suas dimensões biológicas, sociais e psicossociais.
+# Princípios Doutrinários
 
+## Universalização
+A saúde é um direito de cidadania de todas as pessoas e cabe ao Estado assegurar este direito, sendo que o acesso às ações e serviços deve ser garantido a todas as pessoas, independentemente de sexo, raça, ocupação ou outras características sociais ou pessoais.
+
+## Equidade
+O objetivo desse princípio é diminuir desigualdades. Apesar de todas as pessoas possuírem direito aos serviços, as pessoas não são iguais e, por isso, têm necessidades distintas. Em outras palavras, equidade significa tratar desigualmente os desiguais, investindo mais onde a carência é maior.
+
+## Integralidade
+Este princípio considera as pessoas como um todo, atendendo a todas as suas necessidades. Para isso, é importante a integração de ações, incluindo a promoção da saúde, a prevenção de doenças, o tratamento e a reabilitação. Juntamente, o princípio de integralidade pressupõe a articulação da saúde com outras políticas públicas, para assegurar uma atuação intersetorial entre as diferentes áreas que tenham repercussão na saúde e qualidade de vida dos indivíduos.
+
+# Princípios Organizacionais
+
+## Regionalização e Hierarquização
+Os serviços devem ser organizados em níveis crescentes de complexidade, circunscritos a uma determinada área geográfica, planejados a partir de critérios epidemiológicos e com definição e conhecimento da população a ser atendida. A regionalização é um processo de articulação entre os serviços que já existem, visando o comando unificado dos mesmos. Já a hierarquização deve proceder à divisão de níveis de atenção e garantir formas de acesso a serviços que façam parte da complexidade requerida pelo caso, nos limites dos recursos disponíveis numa dada região.
+
+## Descentralização e Comando Único
+Descentralizar é redistribuir poder e responsabilidade entre os três níveis de governo. Com relação à saúde, descentralização objetiva prestar serviços com maior qualidade e garantir o controle e a fiscalização por parte dos cidadãos. No SUS, a responsabilidade pela saúde deve ser descentralizada até o município, ou seja, devem ser fornecidas ao município condições gerenciais, técnicas, administrativas e financeiras para exercer esta função. Para que valha o princípio da descentralização, existe a concepção constitucional do mando único, onde cada esfera de governo é autônoma e soberana nas suas decisões e atividades, respeitando os princípios gerais e a participação da sociedade.
+
+## Participação Popular
+A sociedade deve participar no dia-a-dia do sistema. Para isto, devem ser criados os Conselhos e as Conferências de Saúde, que visam formular estratégias, controlar e avaliar a execução da política de saúde.
+
+<br><br> <br><br>
 **Gratuidade do SUS:**
 
 *   O atendimento no SUS é **gratuito**, ou seja, **nenhum valor pode ser cobrado diretamente do cidadão atendido**, seja total ou parcial.
@@ -65,8 +85,8 @@
 **Qual é o objetivo principal do Sistema Único de Saúde (SUS)?**  
 Garantir acesso integral, universal e gratuito à saúde para todos os brasileiros.
 
-**Quais são os princípios do SUS?**  
-Universalidade, Equidade, Integralidade, Participação Popular e Controle Social.
+**Quais são os princípios doutrinários do SUS?**  
+Universalidade, Equidade e Integralidade.
 
 **O que significa a universalidade no contexto do SUS?**  
 Todos os cidadãos brasileiros têm direito ao acesso à saúde, sem discriminação.
@@ -74,7 +94,7 @@ Todos os cidadãos brasileiros têm direito ao acesso à saúde, sem discrimina�
 **O que é equidade no SUS?**  
 Todos são iguais perante o SUS e devem ser atendidos de acordo com suas necessidades individuais.
 
-**Quais são as diretrizes do SUS?**  
+**Quais são os príncípios organizacionais do SUS?**  
 Descentralização, Regionalização e Hierarquização, Participação da Comunidade.
 
 **O que é a Atenção Primária no SUS?**  
