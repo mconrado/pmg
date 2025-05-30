@@ -37,6 +37,31 @@ Coleta informações sobre os atendimentos ambulatoriais realizados nas unidades
 Sistema que registra e monitora agravos à saúde, permitindo a análise de dados epidemiológicos.  
 
 <br>
+Alguns exemplos de doenças e agravos: 
+<br>
+
+**Doenças Infecciosas:**
+Hanseníase, Hantavirose, Hepatites Virais, Influenza, Leishmaniose Tegumentar Americana, Leishmaniose Visceral, Leptospirose, Malária, Meningite, Peste, Raiva Humana, Rotavírus, Rubéola, Sarampo, Sífilis Congênita, Sífilis em Gestante, Síndrome da Rubéola Congênita, Tuberculose, Zika Vírus. 
+
+<br>
+<br>
+
+**Outras Doenças e Agravos:**
+Intoxicação Exógena, Tétano Acidental, Tétano Neonatal, Tracoma, Violência Interpessoal/Autoprovocada. 
+
+<br>
+<br>
+
+**Doenças Relacionadas ao Trabalho:**
+Câncer Relacionado ao Trabalho, Dermatoses Ocupacionais, Lesões por Esforço Repetitivo (LER)/Distúrbios Osteomusculares Relacionados ao Trabalho (DORT). 
+
+<br>
+<br>
+
+**Agravos de Notificação:**
+Surto de Doenças Transmitidas por Alimentos (DTA), Surto. 
+
+<br>
 
 **CNES (Cadastro Nacional de Estabelecimentos de Saúde):**  
 Lista todos os estabelecimentos de saúde do SUS, com informações sobre sua estrutura, recursos e atividades.  

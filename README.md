@@ -75,14 +75,15 @@
   - (primeiro grau) https://www.youtube.com/watch?v=j6dy4VrsFvA
   - (segundo grau) https://www.youtube.com/watch?v=HCylt5HtFMs&list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho
   - (dica/macete rápido de bhaskara) https://www.youtube.com/shorts/rFQIh0ZpwqM
-- [ ] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
+- [X] Sistema Decimal de Medidas (comprimento, superfície, volume, massa, capacidade e tempo) - transformação de unidades e resolução de problemas;
   - (playlist) https://www.youtube.com/watch?v=dHr5phd_qL8&list=PLGyv8aUrOlzBS5DOoqSRv77bAFor9ON90
 - [ ] Geometria: 
-  - ponto, reta, plano 
+  - [X] ponto, reta, plano 
     - https://www.youtube.com/watch?v=Xe3ijQG5mtQ
-  – ângulos, polígonos, triângulos, quadriláteros, circunferência, círculo e seus elementos respectivos – figuras geométricas planas (perímetros e áreas) 
-  – sólidos geométricos (figuras espaciais): seus elementos e volumes;
-  - (figuras geométricas planas) https://www.youtube.com/watch?v=vdQMamMsPN4&list=PLGyv8aUrOlzALelPuh2462IQwWtQJPZdO
+  – [ ] ângulos, polígonos, triângulos, quadriláteros, circunferência, círculo e seus elementos respectivos 
+  – [ ] figuras geométricas planas (perímetros e áreas) 
+    - https://www.youtube.com/watch?v=vdQMamMsPN4&list=PLGyv8aUrOlzALelPuh2462IQwWtQJPZdO&index=4
+  – [ ] sólidos geométricos (figuras espaciais): seus elementos e volumes;
 - [ ] Funções do 1o e 2o graus;
 - [ ] Sequências, Progressões Aritméticas e Geométricas;
 - [ ] Resolução de problemas.
@@ -155,6 +156,8 @@
   - [SIMULADO IBAM](https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=20&examining_board_ids%5B%5D=81)
 
 QCONRCUSO
+mafefo6055@jazipo.com
+vecohi3457@jazipo.com
 pocaxi5529@cyluna.com
 toyisah753@hazhab.com
 
