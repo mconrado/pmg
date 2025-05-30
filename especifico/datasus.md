@@ -125,3 +125,19 @@ Registra informações sobre casos de câncer de mama, permitindo análises e mo
 **SISPRENATAL - Sistema de Monitoramento e Avaliação do Pré-Natal, Parto, Puerpério e Criança:**  
 Sistema que monitora e avalia a qualidade do pré-natal, parto e cuidados com a criança, promovendo a saúde materno-infantil.  
 
+<br>
+
+**APAC - AUTORIZAÇÃO PROCEDIMENTOS DE ALTA COMPLEXIDADE:**
+Recurso fundamental para autorização, cobrança, pagamento e fornecimento de informações gerenciais para os procedimentos ambulatoriais de alta complexidade no âmbito do SUS.
+
+<br>
+
+
+**SIAB - Sistema de Informação da Atenção Básica**: 
+Implantado em 1998 em substituição ao Sistema de Informação do Programa de Agentes Comunitários de Saúde – SIPACS, pela então Coordenação da Saúde da Comunidade/Secretaria de Assistência à Saúde, hoje Departamento de Atenção Básica/Secretaria de Atenção à Saúde, em conjunto com o Departamento de Informação e Informática do SUS/Datasus/SE, para o acompanhamento das ações e dos resultados das atividades realizadas pelas equipes do Programa Saúde da Família – PSF.
+
+<br>
+
+**AIH - Autorização de Internação Hospitalar:**
+Importante Base de Dados sobre as internações hospitalares realizadas no Brasil.
+

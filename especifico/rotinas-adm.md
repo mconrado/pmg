@@ -116,3 +116,11 @@ Planejamento, Organização, Comando, Coordenação e Controle.
 *   O uso de uma **agenda** (convencional ou eletrônica) é importante no cotidiano das atividades profissionais porque permite **alinhar os compromissos para que não ocorra desperdício de tempo** gerado pela divergência de informações.
 *   Um bom relacionamento interpessoal é fundamental no ambiente profissional. As relações interpessoais propositivas se fortalecem através de conduta baseada na ética e no respeito aos valores. Autonomia deve ser exercida **dentro dos limites estabelecidos pela norma**. Respeitar as normas da organização e ter autonomia podem coexistir, pois a autonomia deve ser exercida dentro dos limites legais e normativos.
 
+<br><br>
+
+
+Os **fluxogramas de rotinas administrativas** são, geralmente, elaborados, entre outros, no seguinte caso:
+
+Os fluxogramas são ferramentas gráficas muito utilizadas na Gestão da Qualidade para representar processos ou rotinas de trabalho. Eles ajudam a visualizar de forma clara e objetiva as etapas de um processo, as decisões que precisam ser tomadas e a sequência de ações. Dessa forma, são extremamente úteis na análise e no diagnóstico de processos, para identificar pontos de melhoria, gargalos, redundâncias e para facilitar a comunicação entre as pessoas envolvidas.
+
+O uso de fluxogramas é particularmente eficaz neste contexto, pois permite desmembrar o processo em partes menores, as sub-rotinas, e examinar cada uma delas detalhadamente. Essa análise é crucial para entender como as diferentes partes do processo se integram e funcionam juntas, e para detectar possíveis ineficiências ou oportunidades de otimização.
